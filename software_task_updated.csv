@@ -1,0 +1,112 @@
+task_title,difficulty_level,task_handler,t1,t2,t3
+"Replace the content of the file ""mynewfileAdvanced.txt""",Intermediate,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Test all the server,Intermediate,tester,MANUAL TESTING,,
+Create HTML forms,Intermediate,front-end developer,HTML,CSS,BOOTSTRAP
+Test all the handling,Advanced,tester,MANUAL TESTING,,
+Create a function that will select random names from the list,Advanced,front-end developer,HTML,CSS,JAVASCRIPT
+Choose Font Style,Beginner,designer,GOOGLE FONTS,,
+Split a web address into readable parts,Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Create HTML tables,Advanced,front-end developer,HTML,CSS,
+"Rename ""mynewfileBeginner.txt"" to ""myrenamedfile.txt""",Intermediate,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Create icons ,Intermediate,designer,FIGMA,,
+Create and insert a Favicon,Intermediate,front-end developer,HTML,CSS,
+Create an increement and decreement button,Beginner,front-end developer,HTML,CSS,JAVASCRIPT
+Create a list where every number is the sum of the three previous ones,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Switch the starting values that are held in two variables,Beginner,front-end developer,HTML,CSS,JAVASCRIPT
+Create a fucntion for optimizing the new images,Advanced,front-end developer,HTML,CSS,JAVASCRIPT
+Put image element,Beginner,front-end developer,HTML,CSS,
+Create a bullet list ,Beginner,front-end developer,HTML,CSS,
+If user click than use carousel using conditional statements,Beginner,front-end developer,HTML,CSS,JAVASCRIPT
+Upload the file using Formidable Module,Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Create separate HTML divs,Advanced,front-end developer,HTML,CSS,
+Use F-layout in the content,Beginner,designer,ADOBE ILLUSTRATOR,,
+Create Tags in search section,Intermediate,designer,HTML,CSS,BOOTSTRAP
+Test all the APIs,Advanced,tester,POSTMAN,,
+Create different nodes usind JS DOM method,Beginner,front-end developer,HTML,CSS,DOM
+Bind an array of Vue objects to an array of HTML element,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Create a Breadcrumb Navigation,Intermediate,designer,HTML,CSS,BOOTSTRAP
+Create HTML links and Anchor Tags,Beginner,front-end developer,HTML,CSS,
+"Create a Node.js file that opens the requested file and returns the content to the client. If anything goes wrong, throw a 404 error",Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Create an animated video ,Intermediate,designer,ADOBE AFTER EFFECT,,
+Create the featured project section,Beginner,designer,ADOBE PHOTOSHOP,,
+Test all the defined functionalities,Intermediate,tester,MANUAL TESTING,,
+select all the fields available in the table,Intermediate,back-end developer,SQL DATABASE,,
+Test all the redirections,Intermediate,tester,MANUAL TESTING,,
+Create a navigation bar ,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Create Bootstrap containers,Intermediate,front-end developer,HTML,CSS,BOOTSTRAP
+Create a responsive navbar,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Use Z-layout in the content,Intermediate,designer,ADOBE ILLUSTRATOR,,
+Write content inside XHTML elements ,Intermediate,front-end developer,HTML,CSS,DOM
+Create a Progress Bar,Intermediate,designer,HTML,CSS,BOOTSTRAP
+Insert the missing parts in the JOIN clause to join the two tables,Intermediate,back-end developer,SQL DATABASE,,
+Design the web flow chart ,Advanced,designer,WEBFLOW,,
+Find the price of the most expensive product,Intermediate,back-end developer,SQL DATABASE,,
+Choose selector priorities,Intermediate,designer,HTML,CSS,BOOTSTRAP
+Create a function for calculating and passing it as input to other function,Intermediate,front-end developer,HTML,CSS,DOM
+Design a web banner,Beginner,designer,ADOBE ILLUSTRATOR,,
+Select all the different values from the Country column,Beginner,back-end developer,SQL DATABASE,,
+Make the server able to send emails,Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Pick and mix the CSS selectors,Intermediate,front-end developer,HTML,CSS,BOOTSTRAP
+Create an HTTP server,Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Use box model for styling,Advanced,front-end developer,HTML,CSS,
+Concatenate the starting variable results,Beginner,front-end developer,HTML,CSS,JAVASCRIPT
+Create the logo,Beginner,designer,ADOBE PHOTOSHOP,,
+Create a module that returns the current date and time,Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+ create-and fire- the event ,Beginner,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Add arithmetic and the modulo operator in calculating section,Advanced,front-end developer,HTML,CSS,JAVASCRIPT
+Refactor the  code,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Manage layout and grid by CSS media-queries,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Change the casing of first and last name to upper case ,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Change class selectors,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+"Insert a new record, but only insert data in the first column",Intermediate,back-end developer,SQL DATABASE,,
+Test all the integrations,Intermediate,tester,MANUAL TESTING,,
+Bind the data to a model using ng-bind,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Create a landing page,Advanced,front-end developer,HTML,CSS,JAVASCRIPT
+Bind the value of HTML elements to application data,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Slice the commenting limit to 50 letters,Advanced,front-end developer,HTML,CSS,JAVASCRIPT
+Change positions by using Static Positioning,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+Create Radio Buttons,Advanced,designer,FLUTTER,,
+Test all the responsiveness,Advanced,tester,MANUAL TESTING,,
+Add event listners to the Buttons,Intermediate,front-end developer,HTML,CSS,DOM
+Add animations to a website,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Choose the correct JOIN clause to select all records from the two tables where there is a match in both tables,Advanced,back-end developer,SQL DATABASE,,
+Add slider for Pricing Section,Advanced,designer,HTML,CSS,JAVASCRIPT
+Create a new file using the writeFile() method,Intermediate,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Select the first Beginner000 records from the result,Intermediate,back-end developer,SQL DATABASE,,
+Test all customers with a NULL value and find the average,Intermediate,back-end developer,SQL DATABASE,,
+Publish your website on Github,Advanced,front-end developer,GITHUB,,
+Font style the website,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+"Manipulate different styles, text and attributes ",Beginner,front-end developer,HTML,CSS,JAVASCRIPT
+Play sounds on a website,Intermediate,front-end developer,HTML,CSS,JAVASCRIPT
+Change the first letter of string to upper case ,Beginner,front-end developer,HTML,CSS,JAVASCRIPT
+Create typography in introduction,Beginner,designer,ADOBE PHOTOSHOP,,
+Change id Selectors,Intermediate,front-end developer,HTML,CSS,BOOTSTRAP
+Choose color Palletes,Intermediate,designer,COLOR PALLETES,,
+Create a file that will convert the output into upper-case letters,Beginner,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Create a function for calculating the same output,Advanced,front-end developer,HTML,CSS,JAVASCRIPT
+Add a notification element in chat box,Intermediate,designer,HTML,CSS,BOOTSTRAP
+Put image at background using Z-index property,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+Split the query string into readable parts,Intermediate,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Change anatomy of CSS,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Add carousel component in images,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Create a modal window,Intermediate,designer,HTML,CSS,BOOTSTRAP
+Create a Message Box ,Intermediate,designer,HTML,CSS,BOOTSTRAP
+lists the number of different (distinct) customer countries,Intermediate,back-end developer,SQL DATABASE,,
+Change positions by using Absolute Positioning,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Make an ALIAS of the Postal Code column,Advanced,back-end developer,SQL DATABASE,,
+Add Grid layouts to the website,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+Use Bootstrap Card for Pricing Table,Intermediate,front-end developer,HTML,CSS,BOOTSTRAP
+Create a website wireframe,Beginner,designer,ADOBE ILLUSTRATOR,,
+"Create SQL statement selects all fields using AND, OR and NOT operators",Beginner,back-end developer,SQL DATABASE,,
+Add responsive Buttons,Beginner,front-end developer,HTML,CSS,BOOTSTRAP
+Create a Date and time picker,Beginner,designer,HTML,CSS,BOOTSTRAP
+Change layouts,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+Debug CSS Code,Intermediate,front-end developer,HTML,CSS,BOOTSTRAP
+Test all the management,Advanced,tester,MANUAL TESTING,,
+Change positions by using Relative Positioning,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+Initialize npm ,Advanced,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
+Test all the components,Advanced,tester,MANUAL TESTING,,
+Test all the UI elements,Beginner,tester,MANUAL TESTING,,
+Create checkboxes,Beginner,designer,HTML,CSS,
+Create a contact me form,Advanced,front-end developer,HTML,CSS,BOOTSTRAP
+Create two html files and save them in the same folder ,Intermediate,back-end developer,JAVASCRIPT,NODEJS,EXPRESSJS
